@@ -3,9 +3,9 @@
 CV Job Matcher is an AI-powered agent that analyzes a candidate's CV and finds matching jobs using external APIs, grading the matches with Google's Gemini models.
 
 ## 🎥 Project Demo Video
-<video src="https://github.com/islembouaziz/5_day_ai_agent_kaggle/raw/main/Video%20Project.mp4" controls="controls" width="100%"></video>
+https://github.com/islembouaziz/5_day_ai_agent_kaggle/blob/main/Video%20Project.mp4
 
-*(If the video player above doesn't load, you can [click here to download or watch the video](https://github.com/islembouaziz/5_day_ai_agent_kaggle/raw/main/Video%20Project.mp4))*
+*(If the embedded player above doesn't load, you can [click here to watch the video](https://github.com/islembouaziz/5_day_ai_agent_kaggle/blob/main/Video%20Project.mp4))*
 
 ## 🧠 Course Concepts Applied
 This project was built as the capstone for the Kaggle **5-Day AI Agents Intensive Course** with Google. Here is how the course concepts are applied in this agent:
