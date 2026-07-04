@@ -1,0 +1,20 @@
+# Environments (API Keys and secrets)
+.env
+
+# Python Virtual Environments
+.venv/
+venv/
+env/
+
+# Python Cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# OS Files
+.DS_Store
+Thumbs.db
+
+# Agent Data
+.agents/
