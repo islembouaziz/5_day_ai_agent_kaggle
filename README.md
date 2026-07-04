@@ -1,6 +1,20 @@
-# CV Job Matcher
+# CV Job Matcher (Kaggle 5-Day AI Agents Capstone)
 
 CV Job Matcher is an AI-powered agent that analyzes a candidate's CV and finds matching jobs using external APIs, grading the matches with Google's Gemini models.
+
+## 🎥 Project Demo Video
+*(Note: Upload your video from your Downloads folder to YouTube or directly to this repo, and replace the link below!)*
+
+[**📺 Click here to watch the Agent Demo Video**](#) 
+
+## 🧠 Course Concepts Applied
+This project was built as the capstone for the Kaggle **5-Day AI Agents Intensive Course** with Google. Here is how the course concepts are applied in this agent:
+
+- **Day 1: Intro to Agents & Vibe Coding:** The project was built using vibe coding workflows to architect an autonomous agent that takes a natural language document (CV) and orchestrates a multi-step workflow.
+- **Day 2: Agent Tools & Interoperability:** The agent seamlessly connects to external APIs (Arbeitnow, The Muse, Upwork) to fetch live data, demonstrating powerful external tool use.
+- **Day 3: Agent Skills:** The agent uses modular, discrete skills (`search`, `filtering`, `ranking`, `summarization`) to break down complex reasoning tasks. It also features long-term memory for user preferences (`preferences.json`).
+- **Day 4: Security & Evaluation:** The agent implements guardrails by parsing the PDF strictly, filtering API results locally *before* sending them to the LLM, and generating predictable, structured JSON output.
+- **Day 5: Production Grade Development:** Built as a scalable, modular FastAPI web service with a clean UI, the agent is structured for production and ready for cloud deployment.
 
 ## Features
 - **Job Searching**: Fetches remote and local jobs from multiple APIs (Arbeitnow, The Muse, Upwork).
